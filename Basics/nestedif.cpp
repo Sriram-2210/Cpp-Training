@@ -14,6 +14,7 @@ int main(){
 }
 
 /* 
-in nested if statements, irrespective of first if condition the nested block executes
-
+In nested if statements, irrespective of first if condition the nested block executes.
+for above example, the condition if(i==50); whether it's true or false, the below 
+nested if block executes.
 */
